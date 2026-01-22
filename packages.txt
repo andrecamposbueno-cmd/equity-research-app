@@ -1,5 +1,4 @@
-﻿openai==0.28.1
-langchain==0.0.347
-python-dotenv==1.0.0
-tiktoken==0.5.1
-requests==2.31.0
+openai
+langchain
+python-dotenv
+tiktoken
